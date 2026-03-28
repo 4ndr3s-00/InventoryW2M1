@@ -101,3 +101,10 @@ python inventory_app.py
 ## Conclusion
 
 This project demonstrates the use of Python fundamentals to build a functional inventory system with clean structure and user interaction.
+
+---
+
+## FlowChart
+
+<img width="1340" height="1071" alt="image" src="https://github.com/user-attachments/assets/31f57ccd-2c9c-43ab-93b2-598dc46a9d45" />
+
